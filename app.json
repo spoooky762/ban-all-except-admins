@@ -8,9 +8,9 @@
         "managment",
         "bot"
     ],
-    "website": "https://t.me/EDM115bots",
-    "repository": "https://github.com/EDM115/ban-all-except-admins",
-    "success_url": "https://t.me/EDM115bots",
+    "website": "https://t.me/EZhjzgjdgzdf",
+    "repository": "https://github.com/spoooky762/ban-all-except-admins",
+    "success_url": "https://t.me/EZhjzgjdgzdf",
     "env": {
         "API_ID": {
             "description": "Your API_ID from my.telegram.org",
